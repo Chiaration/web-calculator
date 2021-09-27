@@ -56,14 +56,14 @@ button {
 
 .calculator-top button {
     padding: 5px;
-    width: 10.5em;
+    width: 9.5em;
     height: 4em;
     background-color: #ec7575;
 }
 
 .calculator-bottom button {
     padding: 5px;
-    width: 5em;
+    width: 4.5em;
     height: 4em;
     height: 50px;
 }
