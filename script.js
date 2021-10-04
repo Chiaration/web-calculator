@@ -34,3 +34,10 @@ function operate(num1, num2, operator) {
         return multiply(num1, num2);
     }
 }
+
+const number_buttons = document.querySelectorAll('button.number')
+number_buttons.forEach((button) => {
+    button.addEventListener('click', () => {
+        alert(button.textContent)
+    })
+})
