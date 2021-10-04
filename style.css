@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
 
+a, a:visited {
+    text-decoration: none;
+    color: blue;
+}
+
 body {
     display: flex;
     justify-content: center;
